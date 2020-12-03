@@ -74,7 +74,8 @@ Environment: The generator uses MFC to implement UI, the generator and loader te
 
 3. Loading shellcode in your method ,and compile(PS:**Make sure you compile statically and cancel the debug symbolic link**)
 
-   ![image-20201130105408030](Readme.assets/image-20201130105408030.png)
+   ！[image-20201130105408030] （Readme.assets / image-20201130105408030.png）
+
 
    
 
